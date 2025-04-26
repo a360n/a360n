@@ -17,7 +17,7 @@ Leading my university's Google Developer Student Club (GDSC), and always learnin
 
 ---
 
-## 🛠️ Skills
+## Skills
 - **Mobile Development**: Swift, SwiftUI, UIKit
 - **Security**: Penetration Testing, Network Security
 - **Technologies**: Firebase, CryptoKit, CoreData
