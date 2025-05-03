@@ -33,7 +33,7 @@ As the current leader of the Google Developer Student Club (GDSC) at my universi
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 -  [**Secure Vault**](https://github.com/a360n/secure-vault): Encrypted password manager built with AES-256 and biometric authentication.
 -  [**PenTest Hub**](https://github.com/a360n/pentest-hub): Python tool for scanning SQLi, XSS, CSRF vulnerabilities in web apps.
@@ -46,7 +46,7 @@ As the current leader of the Google Developer Student Club (GDSC) at my universi
 
 ---
 
-## 📬 Contact Me
+##  Contact Me
 
 -  Email: [alinasserkhazali@gmail.com](mailto:alinasserkhazali@gmail.com)  
 -  LinkedIn: [linkedin.com/in/ali-nasser-dev](https://www.linkedin.com/in/ali-nasser-dev)  
