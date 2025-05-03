@@ -2,7 +2,7 @@
  From Karbala, Iraq  
 
  **Information Security Student** @ University of Babylon (2022 – 2026)  
- **iOS Developer** | 🛡️ **Cybersecurity Enthusiast**  
+ **iOS Developer** |  **Cybersecurity Enthusiast**  
  GDSC Lead | Open Source Contributor
 
 ---
