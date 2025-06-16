@@ -1,7 +1,5 @@
 #  Hi there, I'm **Ali Nasser**  
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--6179--8991-green?logo=orcid)](https://orcid.org/0009-0007-6179-8991)
-
 
  **Information Security Student** @ University of Babylon (2022 – 2026)  
  **iOS Developer** |  **Cybersecurity Enthusiast**  
@@ -53,7 +51,8 @@ As the current leader of the Google Developer Student Club (GDSC) at my universi
 -  Email: [alinasserkhazali@gmail.com](mailto:alinasserkhazali@gmail.com)  
 -  LinkedIn: [linkedin.com/in/ali-nasser-dev](https://www.linkedin.com/in/ali-nasser-dev)  
 -  Portfolio Website: [a360n.github.io](https://a360n.github.io)  
--  Location: Karbala, Iraq
+-  [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--6179--8991-green?logo=orcid)](https://orcid.org/0009-0007-6179-8991)
+
 
 ---
 
