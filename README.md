@@ -1,5 +1,7 @@
 #  Hi there, I'm **Ali Nasser**  
- From Karbala, Iraq  
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--6179--8991-green?logo=orcid)](https://orcid.org/0009-0007-6179-8991)
+
 
  **Information Security Student** @ University of Babylon (2022 – 2026)  
  **iOS Developer** |  **Cybersecurity Enthusiast**  
